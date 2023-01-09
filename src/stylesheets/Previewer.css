@@ -1,0 +1,11 @@
+#preview{
+    overflow-wrap: break-word;
+}
+#preview img{
+    display: block;
+    max-width: 90%;
+    margin: auto;
+}
+.min{
+    min-height: 90vh;
+}
